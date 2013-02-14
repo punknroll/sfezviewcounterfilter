@@ -1,0 +1,5 @@
+[sfezviewcounterfilter]
+ExtensionName=sfezviewcounterfilter
+ClassName=SFeZViewCounterFilter
+MethodName=mostPopularFilter
+FileName=classes/sfezviewcounterfilter.php
